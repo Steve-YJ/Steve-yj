@@ -1,6 +1,6 @@
 ### Hi there, I'm Steve 👋
 
-<!--
+
 **Steve-YJ/Steve-yj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 📗 2020 Goals: is to do develop my own Deep Learning project
 - ⚡ Fun fact: I love to cook and Run
 - 💬 Ask me about Anything :)
--->
+
 
 <br />  
 <br />
