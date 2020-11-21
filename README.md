@@ -29,7 +29,7 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<img align="left" alt="steve-yj's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username='steve-yj'/>
+[![Steve's github stats](https://github-readme-stats.vercel.app/api?username=steve-yj)](https://github.com/steve-yj/github-readme-stats)
 
 
 
