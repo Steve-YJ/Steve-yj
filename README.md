@@ -35,5 +35,5 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 
 
 [profile]: https://www.notion.so/youngjoenlee/Steve-Lee-s-Portfolio-1425acd960b541c8a48adf8bb712c67e
-[website]: https://www.deepinsight.tistory.com
+[website]: https://deepinsight.tistory.com/
 [linkedin]: https://www.linkedin.com/in/youngjeon-lee-50b033196/
