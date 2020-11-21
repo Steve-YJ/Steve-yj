@@ -9,11 +9,11 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 ## I'm a Runner 🏃🏻, Machine Learner and Developer 👨‍💻
 - 🔭 I’m currently working on [Information Security Lab][profile]!
 - 🌱 I’m currently learning Deep Learning & Data Science
-- 📗 2020 Goals: is to do develop my own Deep Learning project
+- ⌛️ 2020 Goals: is to do develop my own Deep Learning project
 - ⚡ Fun fact: I love to cook and Run
 - 💬 Ask me about Anything :)
 
-### 📕 Blog posts
+### 📗 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [[Deep-Special] [Lec2] Week1. Practical aspects of Deep Learning](https://deepinsight.tistory.com/155)
 - [[Deep-Special] [Lec1] Week4. Deep Neural Network - Programming Assignment1. Building your Deep Neural Network](https://deepinsight.tistory.com/154)
