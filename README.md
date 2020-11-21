@@ -27,11 +27,11 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
-
-
 <!-- BLOG-POST-LIST:END -->
 
-
+---
+<img align="left" alt="steve-yj's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=steve-yj&show_icons=true&hide_border=true" />
+</a>
 
 **Languages and Tools** 
 <code><img alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="32"></code>
