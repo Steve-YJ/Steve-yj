@@ -1,7 +1,9 @@
 ### Hi there, I'm Steve 👋
+"the only way to do great work is to love what you do<br>
+If you haven't fond it yet, keep looking, don't settle<br>
+As with all matters of the heart, you'll know when you fint it" - Steve jobs: 2005 Commencement- <br>
 
-
-Here are some ideas to get you started:
+I have asked myself. every day. Why I want to be a Data Scientist and Programmer. 
 
 ## I'm a Runner, Machine Learner and Developer 
 - 🔭 I’m currently working on [Information Security Lab][profile]!
