@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anything :)
 -->
 
-<br /> 
+<br />  
 <br />
 
 [profile]: https://www.notion.so/youngjoenlee/Steve-Lee-s-Portfolio-1425acd960b541c8a48adf8bb712c67e
