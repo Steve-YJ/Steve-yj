@@ -25,12 +25,12 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 
 [![Steve's github stats](https://github-readme-stats.vercel.app/api?username=steve-yj&show_icons=true&theme=dark)](https://github.com/steve-yj/github-readme-stats)<br>
 
----
 **Languages and Tools** 
 <code><img alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="32"></code>
 <code><img alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="32"></code>
 <code><img alt="notion" height="20" src="http://logovectordl.com/wp-content/uploads/2019/11/notion-labs-inc-logo-vector.png"></code>
 
+---
 ### 📩 Connect with me:
 
 [<img align="left" alt="deepinsight.tisroty.com" width="22px" src="https://github.com/iconic/open-iconic/blob/master/svg/home.svg" />][website]
