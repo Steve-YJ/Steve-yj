@@ -27,8 +27,11 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 
 ### 📕 Blog posts
 <!-- BLOG-POST-LIST:START -->
-
-
+- [[Deep-Special] [Lec2] Week1. Practical aspects of Deep Learning](https://deepinsight.tistory.com/155)
+- [[Deep-Special] [Lec1] Week4. Deep Neural Network - Programming Assignment1. Building your Deep Neural Network](https://deepinsight.tistory.com/154)
+- [[Deep-Special] [Lec1] Week4. Deep Neural Network](https://deepinsight.tistory.com/153)
+- [[Deep-Special] [Lec1] Week3. Shallow Neural Network](https://deepinsight.tistory.com/152)
+- [[Deep-Special] [Lec1] Programming Assignment - Logistic Regression with a Neural Network mindset](https://deepinsight.tistory.com/151)
 <!-- BLOG-POST-LIST:END -->
 
 
