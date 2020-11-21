@@ -11,18 +11,12 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 - 📗 2020 Goals: is to do develop my own Deep Learning project
 - ⚡ Fun fact: I love to cook and Run
 - 💬 Ask me about Anything :)
-
-
 <br />  
-<br /> 
-
 
 ### 📩 Connect with me:
 
 [<img align="left" alt="deepinsight.tisroty.com" width="22px" src="https://github.com/iconic/open-iconic/blob/master/svg/home.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
 <br />
 
 ### 📕 Blog posts
@@ -35,7 +29,10 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<img align="left" alt="steve-yj's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=steve-yj&show_icons=true&hide_border=true"/>
+<a href="https://github.com/steve-yj/convoychat">
+    <img align="left" alt="steve-yj's Github Stats" src="https://github-readme-stats.vercel.app/api/pin/?username=steve-yj&show_icons=true&hide_border=true"/>
+</a>
+
 
 **Languages and Tools** 
 <code><img alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="32"></code>
