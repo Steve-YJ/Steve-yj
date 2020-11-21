@@ -16,8 +16,14 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 <br />  
 <br />
 
-[profile]: https://www.notion.so/youngjoenlee/Steve-Lee-s-Portfolio-1425acd960b541c8a48adf8bb712c67e
 
+### Connect with me:
+
+[<img align="left" alt="deepinsight.tisroty.com" width="22px" src="https://github.com/iconic/open-iconic/blob/master/svg/home.svg" />][website]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+<br />
 
 
 
@@ -25,3 +31,9 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 <code><img alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="32"></code>
 <code><img alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="32"></code>
 <code><img alt="notion" height="20" src="http://logovectordl.com/wp-content/uploads/2019/11/notion-labs-inc-logo-vector.png"></code>
+
+
+
+[profile]: https://www.notion.so/youngjoenlee/Steve-Lee-s-Portfolio-1425acd960b541c8a48adf8bb712c67e
+[website]: https://www.deepinsight.tistory.com
+[linkedin]: https://www.linkedin.com/in/youngjeon-lee-50b033196/
