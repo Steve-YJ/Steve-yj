@@ -1,4 +1,4 @@
-### Hi there, I'm Steve <img src="https://raw.githubusercontent.com/steve-yj/steve-yj/master/wave.gif" width="30px">
+### Hi there, I'm Steve <img src="https://github.com/Steve-YJ/Steve-yj/blob/main/wave.gif" width="30px">
 "the only way to do great work is to love what you do<br>
 If you haven't fond it yet, keep looking, don't settle<br>
 As with all matters of the heart, you'll know when you fint it" - Steve jobs: 2005 Commencement- <br>
