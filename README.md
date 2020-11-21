@@ -5,7 +5,7 @@ As with all matters of the heart, you'll know when you fint it" - Steve jobs: 20
 
 I have asked myself. every day. Why I want to be a Data Scientist and Programmer. 
 
-## I'm a Runner, Machine Learner and Developer 
+## I'm a Runner 🏃🏻, Machine Learner and Developer 👨‍💻
 - 🔭 I’m currently working on [Information Security Lab][profile]!
 - 🌱 I’m currently learning Deep Learning & Data Science
 - 📗 2020 Goals: is to do develop my own Deep Learning project
@@ -14,16 +14,22 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 
 
 <br />  
-<br />
+<br /> 
 
 
-### Connect with me:
+### 📩 Connect with me:
 
 [<img align="left" alt="deepinsight.tisroty.com" width="22px" src="https://github.com/iconic/open-iconic/blob/master/svg/home.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
+
+### 📕 Blog posts
+<!-- BLOG-POST-LIST:START -->
+
+
+<!-- BLOG-POST-LIST:END -->
 
 
 
