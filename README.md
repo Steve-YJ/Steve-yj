@@ -7,7 +7,7 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 <br>
 
 ## I'm a Runner 🏃🏻, Machine Learner and Developer 👨‍💻
-- 🔭 I’m currently working on [Information Security Lab](https://github-readme-stats.vercel.app/api?username=steve-yj&show_icons=true&theme=dark)](https://github.com/steve-yj/github-readme-stats){: target="_blank"}
+- 🔭 I’m currently working on [Information Security Lab][profile]
 - 🌱 I’m currently learning Deep Learning & Data Science
 - ⌛️ 2020 Goals: is to do develop my own Deep Learning project
 - ⚡ Fun fact: I love to cook and Run
@@ -23,6 +23,7 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 <!-- BLOG-POST-LIST:END -->
 <br>
 
+[![Steve's github stats](https://github-readme-stats.vercel.app/api?username=steve-yj&show_icons=true&theme=dark)](https://github.com/steve-yj/github-readme-stats)<br>
 
 **Languages and Tools** 
 <code><img alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="32"></code>
