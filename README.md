@@ -15,11 +15,11 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 
 ### 📗 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [이.코.테 Part2. 정렬(Sort) 알고리즘](https://deepinsight.tistory.com/159)
 - [Github Repository](https://deepinsight.tistory.com/notice/158)
 - [Portfolio](https://deepinsight.tistory.com/notice/157)
 - [[Coursera] Deep Learning Specialization 시작하기 (a.k.a 딥러닝 전문가 과정)](https://deepinsight.tistory.com/156)
 - [[Deep-Special] [Lec2] Week1. Practical aspects of Deep Learning](https://deepinsight.tistory.com/155)
-- [[Deep-Special] [Lec1] Week4. Deep Neural Network - Programming Assignment1. Building your Deep Neural Network](https://deepinsight.tistory.com/154)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
