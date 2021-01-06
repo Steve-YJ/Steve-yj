@@ -10,6 +10,7 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 - 🔭 I’m currently working on [Information Security Lab][profile] and Looking for a Job!
 - 🌱 I’m currently learning Deep Learning & Data Science
 - ⌛️ 2021 Goals: is to do PBL(Project-based Learning)
+  - (secret) The start will be a cs231n based project
 - ⚡ Fun fact: I reaaly love to cook. Run three times a week.
 - 💬 Ask me about Anything :)
 
