@@ -7,10 +7,10 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 <br>
 
 ## I'm a Runner 🏃🏻, Machine Learner and Developer 👨‍💻
-- 🔭 I’m currently working on [Information Security Lab][profile]
+- 🔭 I’m currently working on [Information Security Lab][profile] and Looking for a Job!
 - 🌱 I’m currently learning Deep Learning & Data Science
-- ⌛️ 2020 Goals: is to do develop my own Deep Learning project
-- ⚡ Fun fact: I love to cook and Run
+- ⌛️ 2021 Goals: is to do PBL(Project-based Learning)
+- ⚡ Fun fact: I reaaly love to cook. Run three times a week.
 - 💬 Ask me about Anything :)
 
 ### 📗 Blog posts
