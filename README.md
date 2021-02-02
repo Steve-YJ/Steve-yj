@@ -16,11 +16,11 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 
 ### 📗 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[스토리텔링 머신러닝] 1. 머신러닝에 동작 원리(feat. Decision Tree)](https://deepinsight.tistory.com/168)
 - [[협업을 위한 git & GitHub] 2. 다른 사람의 원격 저장소로부터 협업하는 방법(Fork, clone, upstream, Pull Request, Merge & Pull)](https://deepinsight.tistory.com/167)
 - [[scikit-learn] transform()과 fit_transform()의 차이는 무엇일까?](https://deepinsight.tistory.com/165)
 - [[소개합니다] 실용 머신러닝 A to Z](https://deepinsight.tistory.com/164)
 - [[시작하며] 01. Kaggle Master가 되기 위한 몸부림(feat. 가짜 연구소(Pseudo Lab)](https://deepinsight.tistory.com/163)
-- [이.코.테 Part2. 다이나믹 프로그래밍(DP) 정리노트](https://deepinsight.tistory.com/162)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
