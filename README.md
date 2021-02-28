@@ -16,11 +16,11 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 
 ### 📗 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[retrospection] 회고 (回顧)](https://deepinsight.tistory.com/174)
 - [[Model Evaluation] 분류 모델 평가 방법에 대해 알아보자 (Accuracy, precision, RecallROC, F1Score, AUC-ROC curve, logistic loss)](https://deepinsight.tistory.com/173)
 - [[Model Evaluation] 머신러닝 모델 평가 및 해석방법 (feat. Imbalanced Data는 어떻게 평가할 수 있을까?)](https://deepinsight.tistory.com/172)
 - [1만시간의 재발견 '몰입' - 시늉하지 말고 몰입하라](https://deepinsight.tistory.com/169)
 - [[스토리텔링 머신러닝] 1. 머신러닝에 동작 원리(feat. Decision Tree)](https://deepinsight.tistory.com/168)
-- [[협업을 위한 git & GitHub] 2. 다른 사람의 원격 저장소로부터 협업하는 방법(Fork, clone, upstream, Pull Request, Merge & Pull)](https://deepinsight.tistory.com/167)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
