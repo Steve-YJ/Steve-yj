@@ -16,11 +16,11 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 
 ### 📗 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Lakehouse란 무엇인가?](https://deepinsight.tistory.com/180)
 - [[Course 1] Week 1 - Summary Note: Overview of the ML Lifecycle and Deployment](https://deepinsight.tistory.com/178)
 - [Motivation - Why did I start MLOps?](https://deepinsight.tistory.com/179)
 - [[AWS Certification] Cloud Practitioner 합격을 위한 세 가지 학습 방법 (+ 합격후기)](https://deepinsight.tistory.com/177)
 - [[가짜연구소 2기 후기] 밑바닥부터 Kaggle 파헤치기](https://deepinsight.tistory.com/176)
+- [[리뷰: 문과생, 데이터사이언티스트 되다] '나'라는 데이터를 분석하는 워크숍: 적성을 찾고 확신을 얻는 과정](https://deepinsight.tistory.com/175)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
