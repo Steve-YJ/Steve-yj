@@ -7,12 +7,12 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 <br>
 
 ## I'm a Runner 🏃🏻, Machine Learner and Developer 👨‍💻
-- 🔭 I’m currently Looking for a Job!
-- 🌱 I’m currently learning Deep Learning & Data Science
-- ⌛️ 2021 Goals: is to do PBL(Project-based Learning)
+- 🔭  I’m currently Looking for a Job!
+- 🌱  I’m currently learning Deep Learning & Data Science
+- ⌛️  2021 Goals: is to do PBL(Project-based Learning)
   - (spoiler) The start will be a cs231n-based project. It'll be fun :)
-- ⚡ Fun fact: I reaaly love to cook. Run three times a week.
-- 💬 Ask me about Anything :)
+- ⚡  Fun fact: I reaaly love to cook. Run three times a week.
+- 💬  Ask me about Anything :)
 
 ### 📗 Blog posts
 <!-- BLOG-POST-LIST:START -->
@@ -41,3 +41,4 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 [profile]: https://www.notion.so/youngjoenlee/Steve-Lee-s-Portfolio-1425acd960b541c8a48adf8bb712c67e
 [website]: https://deepinsight.tistory.com/
 [linkedin]: https://www.linkedin.com/in/youngjeon-lee-50b033196/
+[codewars]: https://www.codewars.com/users/Steve-Lee/stats
