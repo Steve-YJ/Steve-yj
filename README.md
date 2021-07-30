@@ -18,11 +18,11 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 
 ### 📗 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[retrospection] 회고 (回顧) - 알고리즘 한 문제씩 50일 동안 풀면서 느낀점](https://deepinsight.tistory.com/184)
 - [[Course 1] Week 3: Data Definition and Baseline I - Define Data and Establish Baseline](https://deepinsight.tistory.com/182)
 - [[Course 1] Week 3: Data Definition and Baseline - Overview](https://deepinsight.tistory.com/183)
 - [[Course 1] Week 2 - Summary Note: Select and Train a Model](https://deepinsight.tistory.com/181)
 - [Lakehouse란 무엇인가?](https://deepinsight.tistory.com/180)
-- [[Course 1] Week 1 - Summary Note: Overview of the ML Lifecycle and Deployment](https://deepinsight.tistory.com/178)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
