@@ -1,7 +1,9 @@
 ### Hi there, I'm Steve <img src="https://github.com/Steve-YJ/Steve-yj/blob/main/wave.gif" width="30px">
 "the only way to do great work is to love what you do<br>
 If you haven't fond it yet, keep looking, don't settle<br>
-As with all matters of the heart, you'll know when you fint it" - Steve jobs: 2005 Commencement- <br>
+As with all matters of the heart, you'll know when you fint it<br>
+And like any great relationship, it just gets better as the years roll on<br>
+So keep looking don't settle." - Steve jobs: 2005 Commencement- <br>
 
 I have asked myself. every day. Why I want to be a Data Scientist and Programmer. 
 <br>
