@@ -18,7 +18,7 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 
 ### 📗 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Google ML-Bootcamp-2021. Day10. 회고](https://deepinsight.tistory.com/186)
+- [Google ML-Bootcamp-2021. 구글 머신러닝 부트캠프 Day10. 회고](https://deepinsight.tistory.com/186)
 - [0. Be a MLOps Specialist 스터디를 소개합니다(feat. 가짜연구소)](https://deepinsight.tistory.com/185)
 - [[retrospection] 회고 (回顧) - 알고리즘 한 문제씩 50일 동안 풀면서 느낀점](https://deepinsight.tistory.com/184)
 - [[Course 1] Week 3: Data Definition and Baseline I - Define Data and Establish Baseline](https://deepinsight.tistory.com/182)
