@@ -1,4 +1,5 @@
-### Hi there, I'm Steve <img src="https://github.com/Steve-YJ/Steve-yj/blob/main/wave.gif" width="30px">
+### Hi there, I'm Steve <img src="https://github.com/Steve-YJ/Steve-yj/blob/main/wave.gif" width="30" height="30">
+
 "the only way to do great work is to love what you do<br>
 If you haven't fond it yet, keep looking, don't settle<br>
 As with all matters of the heart, you'll know when you fint it<br>
@@ -9,11 +10,10 @@ I have asked myself. every day. Why I want to be a Data Scientist and Programmer
 <br>
 
 ## I'm a Runner 🏃🏻, Machine Learner and Developer 👨‍💻
-- 🔭  I’m currently Looking for a Job!
-- 🌱  I’m currently learning Deep Learning & Data Science
-- ⌛️  2021 Goals: is to do PBL(Project-based Learning)
-  - (spoiler) The start will be a cs231n-based project. It'll be fun :)
-- ⚡  Fun fact: I reaaly love to cook. Run three times a week.
+- 🔭  I’m currently working as a Data Engineer!
+- 🌱  I’m currently learning Data Engineering and Data Structure with Algorithm
+- ⌛️  The goal for 2022 is to solidify fundamentals of programming
+- ⚡  Fun fact: I reaaly love to cook. I go to the mart once a week
 - 💬  Ask me about Anything :)
 
 ### 📗 Blog posts
