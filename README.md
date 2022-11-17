@@ -11,7 +11,7 @@ I have asked myself. every day. Why I want to be a Data Specialist.
 
 ## I'm a Runner 🏃🏻 and  Data Engineer 👨‍💻
 - 🔭  I’m currently working as a Data Engineer!
-- 🌱  I’m currently learning Data Engineering and building [DE4E](https://github.com/Pseudo-Lab/data-engineering-for-everybody)
+- 🌱  I’m currently learning Data Engineering and building [DE4E: Data Engineering for Everybody](https://github.com/Pseudo-Lab/data-engineering-for-everybody)
 - ⌛️  The goal for 2022 is to solidify fundamentals of programming and Data Engineering
 - ⚡  Fun fact: I really like to cook. 
 - 💬  Ask me about Anything :)
