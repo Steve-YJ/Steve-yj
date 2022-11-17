@@ -41,8 +41,8 @@ I have asked myself. every day. Why I want to be a Data Specialist.
 <img src="https://camo.githubusercontent.com/d20181791a7d3716b202e8c3549c20cd5d435bb6bbb2556fbcf99f7841f48d5e/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f353936382f353936383836362e706e67" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
 <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" height="40" style="vertical-align:top; margin:4px">
 <img src="https://airflow.apache.org/integration-logos/aws/Amazon-Redshift_light-bg@4x.png" alt="Amazon Redshift" height="40" style="vertical-align:top; margin:4px">
-<img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="Apache Spark" height="40" style="vertical-align:top; margin:4px">
-<img src="https://spark.apache.org/images/AirflowLogo.png" alt="Airflow" height="40" style="vertical-align:top; margin:4px">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc_M-qh-y07JCyYibrRAPMRtsJ20lJzdQTIkUAgdVdgrMMh2yPKOcDecqRaKR2E3uTat4&usqp=CAU" alt="Apache Spark" height="40" style="vertical-align:top; margin:4px">
+<img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_white_bg.png" alt="Airflow" height="40" style="vertical-align:top; margin:4px">
 <img src="https://spark.apache.org/images/scikit-learn.png" alt="Scikit-Learn" height="40" style="vertical-align:top; margin:4px">
 
 </p>
