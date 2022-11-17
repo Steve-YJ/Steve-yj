@@ -31,9 +31,22 @@ I have asked myself. every day. Why I want to be a Data Specialist.
 [![Steve's github stats](https://github-readme-stats.vercel.app/api?username=steve-yj&show_icons=true&theme=dark)](https://github.com/steve-yj/github-readme-stats)<br>
 
 **Languages and Tools** 
-<code><img alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="32"></code>
-<code><img alt="tensorflow" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="32"></code>
-<code><img alt="notion" height="20" src="http://logovectordl.com/wp-content/uploads/2019/11/notion-labs-inc-logo-vector.png"></code>
+<p align="center">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.freelogovectors.net/wp-content/uploads/2022/03/azure_sql_managed_instance_freelogovectors.net_.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
+<img src="https://spark.apache.org/images/pandas.png" alt="Pandas" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" height="40" style="vertical-align:top; margin:4px">
+<img src="https://camo.githubusercontent.com/d20181791a7d3716b202e8c3549c20cd5d435bb6bbb2556fbcf99f7841f48d5e/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f353936382f353936383836362e706e67" alt="GitHub" height="40" style="vertical-align:top; margin:4px">
+<img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" height="40" style="vertical-align:top; margin:4px">
+<img src="https://airflow.apache.org/integration-logos/aws/Amazon-Redshift_light-bg@4x.png" alt="Amazon Redshift" height="40" style="vertical-align:top; margin:4px">
+<img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="Apache Spark" height="40" style="vertical-align:top; margin:4px">
+<img src="https://spark.apache.org/images/AirflowLogo.png" alt="Airflow" height="40" style="vertical-align:top; margin:4px">
+<img src="https://spark.apache.org/images/scikit-learn.png" alt="Scikit-Learn" height="40" style="vertical-align:top; margin:4px">
+
+</p>
+
 
 ---
 ### 📩 Connect with me:
