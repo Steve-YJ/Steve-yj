@@ -1,4 +1,6 @@
-### Hi there, I'm Steve <img src="https://github.com/Steve-YJ/Steve-yj/blob/main/wave.gif" width="30" height="30">
+## Hi there, I'm Steve <img src="https://github.com/Steve-YJ/Steve-yj/blob/main/wave.gif" width="30" height="30">
+![](https://visitor-badge.laobi.icu/badge?page_id=Steve-YJ.Steve-YJ)
+[![Github](https://img.shields.io/github/followers/Steve-YJ?label=Follow&style=social)](https://github.com/Steve-YJ)
 
 "the only way to do great work is to love what you do.<br>
 If you haven’t found it yet, keep looking. Don’t settle.<br>
@@ -17,7 +19,7 @@ I have asked myself. every day. Why I want to be a Data Specialist.
 - 💬  Ask me about Anything :)
 <br></br>
 
-### 📗 Blog posts
+## 📗 Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [2022 가짜연구소 네트워킹 데이2 후기](https://deepinsight.tistory.com/206)
 - [쏘카 데이터 밋업 2022 후기 &lpar;feat. 데이터 엔지니어의 관점에서&rpar;](https://deepinsight.tistory.com/205)
@@ -29,7 +31,7 @@ I have asked myself. every day. Why I want to be a Data Specialist.
 
 [![Steve's github stats](https://github-readme-stats.vercel.app/api?username=steve-yj&show_icons=true&theme=vue-dark)](https://github.com/steve-yj/github-readme-stats)<br></br>
 
-**Languages and Tools** 
+## **Languages and Tools** 
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://www.freelogovectors.net/wp-content/uploads/2022/03/azure_sql_managed_instance_freelogovectors.net_.png" alt="SQL" height="40" style="vertical-align:top; margin:4px">
@@ -46,7 +48,7 @@ I have asked myself. every day. Why I want to be a Data Specialist.
 </p>
 
 ---
-### 📩 Connect with me:
+## 📩 Connect with me:
 
 [<img align="left" alt="deepinsight.tisroty.com" width="22px" src="https://github.com/iconic/open-iconic/blob/master/svg/home.svg" />][website]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
