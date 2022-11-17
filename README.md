@@ -25,10 +25,9 @@ I have asked myself. every day. Why I want to be a Data Specialist.
 - [[LH2L] Week 1. What is Learning?](https://deepinsight.tistory.com/199)
 - [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://deepinsight.tistory.com/197)
 <!-- BLOG-POST-LIST:END -->
+<br>
 
-<br></br>
-
-[![Steve's github stats](https://github-readme-stats.vercel.app/api?username=steve-yj&show_icons=true&theme=vue-dark)](https://github.com/steve-yj/github-readme-stats)<br>
+[![Steve's github stats](https://github-readme-stats.vercel.app/api?username=steve-yj&show_icons=true&theme=vue-dark)](https://github.com/steve-yj/github-readme-stats)<br></br>
 
 **Languages and Tools** 
 <p align="center">
@@ -44,9 +43,7 @@ I have asked myself. every day. Why I want to be a Data Specialist.
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc_M-qh-y07JCyYibrRAPMRtsJ20lJzdQTIkUAgdVdgrMMh2yPKOcDecqRaKR2E3uTat4&usqp=CAU" alt="Apache Spark" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cwiki.apache.org/confluence/download/attachments/145723561/airflow_white_bg.png" alt="Airflow" height="40" style="vertical-align:top; margin:4px">
 <img src="https://spark.apache.org/images/scikit-learn.png" alt="Scikit-Learn" height="40" style="vertical-align:top; margin:4px">
-
 </p>
-
 
 ---
 ### 📩 Connect with me:
