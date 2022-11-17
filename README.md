@@ -18,11 +18,6 @@ I have asked myself. every day. Why I want to be a Data Specialist.
 
 ### 📗 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [01. 운영서버와 AWS 소개](https://deepinsight.tistory.com/191)
-- [00. 서비스 운영이 쉬워지는 AWS 인프라 구축 가이드](https://deepinsight.tistory.com/190)
-- [1. AWS 기초과정 - AWS Well-Architected 프레임워크&lpar;보안, 성능효율성, 안정성, 운영 우수성, 비용 최적화&rpar;에 대해 알아보자](https://deepinsight.tistory.com/187)
-- [AWS 기초과정 - AWS 초보자를 위한 모든것!](https://deepinsight.tistory.com/188)
-- [Google ML-Bootcamp-2021. 구글 머신러닝 부트캠프 Day10. 회고](https://deepinsight.tistory.com/186)
 <!-- BLOG-POST-LIST:END -->
 <br>
 
