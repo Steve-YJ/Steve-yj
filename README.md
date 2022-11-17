@@ -9,7 +9,7 @@ So keep looking until you find it. Don’t settle." -Stanford Commencement 2005.
 I have asked myself. every day. Why I want to be a Data Specialist. 
 <br></br>
 
-## I'm a Runner 🏃🏻, Machine Learner and Developer 👨‍💻
+## I'm a Runner 🏃🏻 and  Data Engineer 👨‍💻
 - 🔭  I’m currently working as a Data Engineer!
 - 🌱  I’m currently learning Data Engineering and building [DE4E](https://github.com/Pseudo-Lab/data-engineering-for-everybody)
 - ⌛️  The goal for 2022 is to solidify fundamentals of programming and Data Engineering
