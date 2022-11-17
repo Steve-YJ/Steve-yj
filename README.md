@@ -28,7 +28,7 @@ I have asked myself. every day. Why I want to be a Data Specialist.
 
 <br></br>
 
-[![Steve's github stats](https://github-readme-stats.vercel.app/api?username=steve-yj&show_icons=true&theme=dark)](https://github.com/steve-yj/github-readme-stats)<br>
+[![Steve's github stats](https://github-readme-stats.vercel.app/api?username=steve-yj&show_icons=true&theme=vue-dark)](https://github.com/steve-yj/github-readme-stats)<br>
 
 **Languages and Tools** 
 <p align="center">
