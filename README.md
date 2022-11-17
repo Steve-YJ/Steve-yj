@@ -19,6 +19,11 @@ I have asked myself. every day. Why I want to be a Data Specialist.
 
 ### 📗 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [2022 가짜연구소 네트워킹 데이2 후기](https://deepinsight.tistory.com/206)
+- [쏘카 데이터 밋업 2022 후기 &lpar;feat. 데이터 엔지니어의 관점에서&rpar;](https://deepinsight.tistory.com/205)
+- [건강한 성장을 위한 TIL 작성하기 &lpar;feat. 노션&rpar;](https://deepinsight.tistory.com/204)
+- [[LH2L] Week 1. What is Learning?](https://deepinsight.tistory.com/199)
+- [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://deepinsight.tistory.com/197)
 <!-- BLOG-POST-LIST:END -->
 
 <br></br>
