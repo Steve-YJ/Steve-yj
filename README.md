@@ -7,7 +7,7 @@ And, like any great relationship, it just gets better and better as the years ro
 So keep looking until you find it. Don’t settle." -Stanford Commencement 2005. Steve jobs- <br>
 
 I have asked myself. every day. Why I want to be a Data Specialist. 
-<br>
+<br></br>
 
 ## I'm a Runner 🏃🏻, Machine Learner and Developer 👨‍💻
 - 🔭  I’m currently working as a Data Engineer!
@@ -15,11 +15,13 @@ I have asked myself. every day. Why I want to be a Data Specialist.
 - ⌛️  The goal for 2022 is to solidify fundamentals of programming and Data Engineering
 - ⚡  Fun fact: I really like to cook. 
 - 💬  Ask me about Anything :)
+<br></br>
 
 ### 📗 Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-<br>
+
+<br></br>
 
 [![Steve's github stats](https://github-readme-stats.vercel.app/api?username=steve-yj&show_icons=true&theme=dark)](https://github.com/steve-yj/github-readme-stats)<br>
 
